@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django. Now, I am doing more on backend.
+I'm a Pentester and Security enthusiast. I specialize in networking pentesting and getting more involved in web aplication. The purpose of this blog is to give tips on passing the OSCP by writing OSCP like machine write ups and overall pentesting stuff like tools, news, gadgets, and CTF.
 
-email: agus[at]python.web.id
+email: aqib.khan989@gmail.com
