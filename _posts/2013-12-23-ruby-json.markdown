@@ -5,7 +5,7 @@ date:   4/11/2019 0 08:42pm
 categories: [Scripts and Tips]
 ---
 
-The purpose of this script is if you might be in a situation where you find yourself pasting a simple php reverse shell in the database query or anything of the likes in a web admin page but find yourself getting nothing. You then paste in php monkey's script, but still nothing. However, using '(<? phpinfo(); ?>)' works so we know the web application is vulnerable to php reverse shell. To bypass this most of the time you need to past php monkey's script ALL in one line while also removing the other junk in the script (comments and spaces). By doing this the web server reads the entire thing while not skipping lines although I don’t guarantee this working for all web applications. I provided the script for you below and of course all rights reserved to pentestermonkey. 
+The purpose of this script is if you might be in a situation where you find yourself pasting a simple php reverse shell in the database query or anything of the likes in a web admin page but find yourself getting nothing. You then paste in php monkey's script, but still nothing. However, using '( <? phpinfo(); ?> )' works so we know the web application is vulnerable to php reverse shell. To bypass this most of the time you need to past php monkey's script ALL in one line while also removing the other junk in the script (comments and spaces). By doing this the web server reads the entire thing while not skipping lines although I don’t guarantee this working for all web applications. I provided the script for you below and of course all rights reserved to pentestermonkey. 
 
 // Copyright (C) 2007 pentestmonkey@pentestmonkey.net
 
