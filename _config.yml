@@ -2,9 +2,7 @@ title: Security Pentesting News and CTF write ups
 description: Security Pentesting News and CTF write ups
 author: Ameen Khan
 github: https://github.com/spookey0188
-about: I'm a Pentester and Security enthusiast. I specialize in networking pentesting and getting more involved in web aplication. 
-The purpose of this blog is to give tips on passing the OSCP by writing OSCP like machine write ups and overall pentesting stuff like news,
-gadgets, and CTF.
+about: I'm a Pentester and Security enthusiast. I specialize in networking pentesting and getting more involved in web aplication. The purpose of this blog is to give tips on passing the OSCP by writing OSCP like machine write ups and overall pentesting stuff like news, gadgets, and CTF.
 disqus_shortname: Pentesting
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
