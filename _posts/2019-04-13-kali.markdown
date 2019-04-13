@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "php pentestmonkey reverse shell all in one line"
-date:   4/13/2019 0 08:42pm
+date:   2019-04-13 0 08:42pm
 categories: [Scripts and Tips]
 ---
 
